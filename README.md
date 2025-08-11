@@ -1,7 +1,6 @@
 # syncora-benchmarks
 
-A lightweight template for comparing synthetic-data quality metrics across different generators and datasets. By default, it benchmarks **Syncora** against **Gretel** and **MostlyAI**, but you can swap in any platform or dataset simply by following the file-naming conventions.
-
+A lightweight, plug‑and‑play benchmark kit for synthetic data. Compare Syncora against other generators (e.g., Gretel, MostlyAI) by dropping in CSVs, then auto‑compute fidelity and similarity metrics. Works with any dataset via simple file naming—no heavy setup needed.
 ---
 
 ## What’s Inside
