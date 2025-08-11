@@ -1,6 +1,6 @@
 # syncora-benchmarks
 
-A lightweight, plug‑and‑play benchmark kit for synthetic data. Compare Syncora against other generators (e.g., Gretel, MostlyAI) by dropping in CSVs, then auto‑compute fidelity and similarity metrics. Works with any dataset via simple file naming—no heavy setup needed.
+Syncora Benchmarks is a plug and play toolkit to evaluate synthetic data quality. Add CSVs from any generator and get instant fidelity metrics and visual comparisons with simple file naming.
 ---
 
 ## What’s Inside
